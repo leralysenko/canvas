@@ -1,0 +1,15 @@
+#myCanvas {
+	border: solid 1px #333;
+	cursor: pointer;
+	width: 490px;
+	height: 220px;
+}
+
+div {
+	margin: 5px;
+}
+
+.specialDiv {
+	width: 180px;
+	float: left;
+}
